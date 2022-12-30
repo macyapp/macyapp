@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidhant Kumar Nayak
-- 👀 I’m interested in MERN Stack
+- 👀 I’m interested in MERN Stack and I have recently started learning Web Developement
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
